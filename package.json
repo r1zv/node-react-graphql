@@ -1,0 +1,19 @@
+{
+  "name": "react-graphql",
+  "version": "1.0.0",
+  "description": "Node, React, GraphQL, Apollo, WebSockets, and Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r1zv/node-react-graphql.git"
+  },
+  "author": "Asad Rizvi <rizvas.dev@gmail.com> (example.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r1zv/node-react-graphql/issues"
+  },
+  "homepage": "https://github.com/r1zv/node-react-graphql#readme"
+}
